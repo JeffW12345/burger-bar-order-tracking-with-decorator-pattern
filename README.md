@@ -1,5 +1,5 @@
 # burger-bar-order-tracking-with-decorator-pattern
-Using the decorator pattern to add condiments to a burger, and amend the pricing accordingly.
+Using the decorator pattern to add condiments to a burger, and amend the pricing and description accordingly.
 
 The console output from running CreateBurger.java is as follows:
 
